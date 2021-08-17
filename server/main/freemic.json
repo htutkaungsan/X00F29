@@ -137,5 +137,16 @@
 "rating" : "Unknown",
 "genre" : "NTR,Unknown",
 "review" : "MM Books Collection"
+},
+{
+"title" : "Boarding Diary",
+"status" : "Ongoing",
+"image_small" : "https://1.bp.blogspot.com/-tkGpy6PAneg/YMeSs7ki5zI/AAAAAAAARIY/KbtnF4syXvcRMGqFOk2g6XeBlaSBuqJGwCLcBGAsYHQ/s0/boardingSmall.webp",
+"image_long" : "https://1.bp.blogspot.com/-LXg_6srJI88/YMeSqxtVXFI/AAAAAAAARIU/k7_Wg-bH4uEt5BupbO-wLcOE6tsxvTxtgCLcBGAsYHQ/s0/Screenshot_2021-06-14%2Bboarding-diary-english-1%2Bjpg%2B%2528JPEG%2BImage%252C%2B720%2B%25C3%2597%2B384%2Bpixels%2529.png",
+"link" : "https://raw.githubusercontent.com/htutkaungsan/X00F29/main/data/boarding_diary/",
+"rating" : "4/5",
+"genre" : "Manhwa,Adult,Comedy,Drama,Harem,Mature,Romance,Seinen",
+"review" : "MM Books Collection"
 }
+    
 ]
