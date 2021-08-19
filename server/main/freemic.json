@@ -1,27 +1,14 @@
 
 [
 {
-    "title" : "အိမ်နီးချင်းမမ ",
-    "status" : "ongoing",
-    "image_small" : "https://1.bp.blogspot.com/-13-d4pls-Uc/YM9GqSsmPJI/AAAAAAAATp8/TysaZXXpMHI60X-vydPLUqiCJS0_ApbTgCLcBGAsYHQ/s0/Read-Sister-Neighbors-manga-toptoon-free-193x278.jpg",
-    "image_long" : "https://1.bp.blogspot.com/-2by5T2RoKBo/XiM3_-MgbhI/AAAAAAAAEYQ/hQ2pt6506FENrKTSjJBHu5gM_zjYidSNwCLcBGAsYHQ/s400/FB_IMG_1579365351585.jpg",
-    "link" : "https://raw.githubusercontent.com/htutkaungsan/X00F29/main/data/what_do_you_take_me_for/",
-    "genre" : "Adult,Drama,Harem,Mature,Romance,Seinen,Slice of Life",
-    "rating" : "Hiperdex : 4.2/5",
-    "review" : "ဘာသာပြန် : လမင်းကဗျာ\nတင်ဆက်သူ : XC2"
-},
-{
-    "title" : "My Kingdom",
-    "status" : "ongoing",
-    "image_small" : "https://1.bp.blogspot.com/-H5HLy9NoIFA/Xs5YdQZklVI/AAAAAAAAMOo/XTZzQn0CRA8AmpbIHOmYC3ejXCVLJolwACLcBGAsYHQ/s320/001image_small.jpg",
-    "image_long" : "https://1.bp.blogspot.com/-wypBtkdsJVk/Xs5SuLf1OII/AAAAAAAAL8Q/hJflA-MeYxQrwiCbqzFkm4mYGFKpR7SSQCK4BGAsYHg/s1600/IMG_20200527_181318.jpg",
-    "link" : "https://raw.githubusercontent.com/htutkaungsan/X00F29/main/data/my_kingdom/",
-    "genre" : "Adult,Drama,Harem,Mature,NTR,Romance,Seinen",
-    "rating" : "Hiperdex : 4.2/5",
-    "review" : "ကျောင်းတက်ရ ငြီးငွေ့နေတဲ့ ဟွန်းတစ်ယောက် မဖြစ်သင့်တဲ့သူတစ်ယောက်နဲ့ 
-    နီးကပ်တဲ့ဆက်ဆံရေးရရှိပြီးတဲ့နောက် သူမမျှော်လင့်ခဲ့တာတွေ ဖြစ်လာတဲ့အခါ 
-    ဟွန်းတစ်ယောက် ဘာတွေဆက်ဖြစ်လာသလဲ....... 
-    "
+"title" : "ဘကြီးထောင်",
+"status" : "completed",
+"image_small" : "https://1.bp.blogspot.com/-KWj3OrvNIf0/Xo9tJ-8hxnI/AAAAAAAAE14/84nkyqbEn-QJCD1daVucdthfhrg8Lh0rQCLcBGAsYHQ/s600/2015-10-27_181131.jpg",
+"image_long" : "https://1.bp.blogspot.com/-CfWRJSeRpbo/Xo9tKMDR7-I/AAAAAAAAE18/RidqtkYvvSAS99CBeeOvGD2QqQ_2lC0fwCLcBGAsYHQ/s1600/bg_image.png",
+"link" : "https://raw.githubusercontent.com/htutkaungsan/X00F29/main/data/ba_gyi_htaung/",
+"rating" : "Unknown",
+"genre" : "Unknown",
+"review" : "ဘာသာပြန် : ရုပ်ပြ"
 },
 {
     "title" : "The Unwanted Roommate",
@@ -139,6 +126,19 @@
 "review" : "MM Books Collection"
 },
 {
+"title" : "ချိုသောခါးသောအချစ် (Bittersweet)",
+"status" : "Completed",
+"image_small" : "https://1.bp.blogspot.com/-NVEclsf6ij0/Xo9j3ps2YzI/AAAAAAAAE1Q/CCnbOGz6EK4XKHwqnENB9RBvuzSjp4HIQCLcBGAsYHQ/s600/cho_cover.png",
+"image_long" : "https://1.bp.blogspot.com/-KmvGK_qxc08/Xo9j35vnplI/AAAAAAAAE1U/oG3aZEAfBnIYC5MyhRMyy0PEx5qsSU9nQCLcBGAsYHQ/s1600/cho_image.png",
+"link" : "https://raw.githubusercontent.com/htutkaungsan/X00F29/main/data/cho_thor_khr_thor_love/",
+"rating" : "3.5/5 (Toonily), 4.1/5",
+"genre" : "Manhwa,Adult,Drama,Harem,Romance,Seinen,Smut",
+"review" : "အရွယ်တင်ပြီး ထက်မြက်တဲ့ Single Mother တစ်ယောက်...အပျိုဖြန်း စိတ်ကစားတတ်စ သမီး နဲ့အမေ ကြားမှာ လူငယ်တယောက် ဘယ်လို တွေ့ကြုံဖြတ်သန်း ရမလဲဆိုတာကတာ့
+=====================
+ဘာသာပြန် : ရုပ်ပြ
+(စ-ဆုံး)"
+},
+{
 "title" : "Boarding Diary",
 "status" : "Ongoing",
 "image_small" : "https://1.bp.blogspot.com/-tkGpy6PAneg/YMeSs7ki5zI/AAAAAAAARIY/KbtnF4syXvcRMGqFOk2g6XeBlaSBuqJGwCLcBGAsYHQ/s0/boardingSmall.webp",
@@ -159,5 +159,29 @@
 "genre" : "Manhwa,Comedy,Harem,Mature,Romance,Supernatural",
 "review" : "Once upon a time there was a loser, but that one day he got the ability. Ask what? Well ... it's hard to explain, he knows how to instruct on \"the right path girls\" who strayed from it."
 }
-    
+,
+{
+    "title" : "အိမ်နီးချင်းမမ ",
+    "status" : "ongoing",
+    "image_small" : "https://1.bp.blogspot.com/-13-d4pls-Uc/YM9GqSsmPJI/AAAAAAAATp8/TysaZXXpMHI60X-vydPLUqiCJS0_ApbTgCLcBGAsYHQ/s0/Read-Sister-Neighbors-manga-toptoon-free-193x278.jpg",
+    "image_long" : "https://1.bp.blogspot.com/-2by5T2RoKBo/XiM3_-MgbhI/AAAAAAAAEYQ/hQ2pt6506FENrKTSjJBHu5gM_zjYidSNwCLcBGAsYHQ/s400/FB_IMG_1579365351585.jpg",
+    "link" : "https://raw.githubusercontent.com/htutkaungsan/X00F29/main/data/what_do_you_take_me_for/",
+    "genre" : "Adult,Drama,Harem,Mature,Romance,Seinen,Slice of Life",
+    "rating" : "Hiperdex : 4.2/5",
+    "review" : "ဘာသာပြန် : လမင်းကဗျာ\nတင်ဆက်သူ : XC2"
+},
+{
+    "title" : "My Kingdom",
+    "status" : "ongoing",
+    "image_small" : "https://1.bp.blogspot.com/-H5HLy9NoIFA/Xs5YdQZklVI/AAAAAAAAMOo/XTZzQn0CRA8AmpbIHOmYC3ejXCVLJolwACLcBGAsYHQ/s320/001image_small.jpg",
+    "image_long" : "https://1.bp.blogspot.com/-wypBtkdsJVk/Xs5SuLf1OII/AAAAAAAAL8Q/hJflA-MeYxQrwiCbqzFkm4mYGFKpR7SSQCK4BGAsYHg/s1600/IMG_20200527_181318.jpg",
+    "link" : "https://raw.githubusercontent.com/htutkaungsan/X00F29/main/data/my_kingdom/",
+    "genre" : "Adult,Drama,Harem,Mature,NTR,Romance,Seinen",
+    "rating" : "Hiperdex : 4.2/5",
+    "review" : "ကျောင်းတက်ရ ငြီးငွေ့နေတဲ့ ဟွန်းတစ်ယောက် မဖြစ်သင့်တဲ့သူတစ်ယောက်နဲ့ 
+    နီးကပ်တဲ့ဆက်ဆံရေးရရှိပြီးတဲ့နောက် သူမမျှော်လင့်ခဲ့တာတွေ ဖြစ်လာတဲ့အခါ 
+    ဟွန်းတစ်ယောက် ဘာတွေဆက်ဖြစ်လာသလဲ....... 
+    "
+}
+
 ]
