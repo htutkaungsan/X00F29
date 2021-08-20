@@ -126,7 +126,7 @@
 "review" : "MM Books Collection"
 },
 {
-"title" : "ချိုသောခါးသောအချစ် (Bittersweet)",
+"title" : "ချိုသောခါးသောအချစ် \n(Bittersweet)",
 "status" : "Completed",
 "image_small" : "https://1.bp.blogspot.com/-NVEclsf6ij0/Xo9j3ps2YzI/AAAAAAAAE1Q/CCnbOGz6EK4XKHwqnENB9RBvuzSjp4HIQCLcBGAsYHQ/s600/cho_cover.png",
 "image_long" : "https://1.bp.blogspot.com/-KmvGK_qxc08/Xo9j35vnplI/AAAAAAAAE1U/oG3aZEAfBnIYC5MyhRMyy0PEx5qsSU9nQCLcBGAsYHQ/s1600/cho_image.png",
@@ -139,6 +139,39 @@
 (စ-ဆုံး)"
 },
 {
+"title" : "လူဖျင်း (loser)",
+"status" : "Completed",
+"image_small" : "https://4.bp.blogspot.com/-7eYwkjU7Hlc/W7zG6zlrk-I/AAAAAAAAOg8/ibN7RMWsqkEufrr-WrneE__wq8cGB8oawCLcBGAs/s0/0.jpg",
+"image_long" : "https://1.bp.blogspot.com/-GTvM8tUpROo/XOAnTHmfQoI/AAAAAAAAXiA/jS2V5L6C5nUqWbuulZgTbNEPUbYA5mdCQCLcBGAs/s0/0.jpg",
+"link" : "https://raw.githubusercontent.com/htutkaungsan/X00F29/main/data/loser/",
+"rating" : "4/5 & 3.7 (hiperdex)",
+"genre" : "Manhwa,Adult,Drama,Romance,Seinen,Smut",
+"review" : "မိန်းမက ကိုယ့်သူငယ်ချင်းလဲဖြစ် အထက်လူကြီးလဲဖြစ်သူနဲ့ဖောက်ပြန်...အလုပ်မှာရော အိမ်မှာပါ ဖိအားပေးခံရပြီး ကွာရှင်းဖို့အထိဖြစ်လာတဲ့အခါ...ကိုယ့်ကိုယ်ကိုယ် သတ်သေမလား ရုန်းထွက်မလား ကင်အီဆောင်း တစ်ယောက်ဘယ်လို ဆုံးဖြတ်မလဲဆိုတာ လှည့်ကွက်များစွာနဲ့ဖတ်ရှုရမယ့် Drama ဇာတ်လမ်း"
+}
+,
+{
+"title" : "မတည်မြဲတဲ့အချစ်",
+"status" : "Completed",
+"image_small" : "https://1.bp.blogspot.com/-V2NzrZZv9EU/Xo9eulXBeNI/AAAAAAAAE04/wpWAYdg4qIck6osDraw9wz4jGL8x8dTiQCLcBGAsYHQ/s600/cp_ver.png",
+"image_long" : "https://1.bp.blogspot.com/-QxsZOt5ekhU/Xo9euRQSE5I/AAAAAAAAE00/jRb98WZ8qcQW-SofvrxCxYWMuk-VAauUgCLcBGAsYHQ/s1600/cp_hori.png",
+"link" : "https://raw.githubusercontent.com/htutkaungsan/X00F29/main/data/unstable_love/",
+"rating" : "3.5/5",
+"genre" : "Manhwa,Unknown",
+"review" : ""
+}
+,
+{
+"title" : "စိတ်၏စေရာ \n(Fatal Women)",
+"status" : "Completed",
+"image_small" : "https://blogger.googleusercontent.com/img/a/AVvXsEgQOkxw-r50b9Q_UjS9gkihEJfcMeNPDyPwEFzZfB0xWBvBARdLWMZgTz6wgboNfnOZF-saSZFJ5AVvN4OapspovRstiRGlpUuPOtP7rKhCF2ssUKQGeo2spG7FlPIPkk4ymSjivivf3QeX8WKTx5Zmdam-5leGcvtVLGaTEAGI8aPWVZecrVes1vFupw",
+"image_long" : "https://1.bp.blogspot.com/-qvUoWWe7aO4/Xo_vzofL3nI/AAAAAAAAE2Y/GXNaYGMDFqw1TZU8ng1nGK0RHCBkH2WlgCLcBGAsYHQ/s1600/sate.png",
+"link" : "https://raw.githubusercontent.com/htutkaungsan/X00F29/main/data/fatal_women/",
+"rating" : "4/5 & 3.0/5 (Hiperdex)",
+"genre" : ",Manhwa,Adult,Drama,Romance,Seinen,Supernatural",
+"review" : "ထက်မြက်ပြီး ကိုယ့်ကိုယ်ကို ယုံကြည်မှုအပြည့်ရှိတဲ့ မိန်းမတစ်ယောက် အိမ်ထောင်သည်ယောကျာ်း တယောက်အပေါ် သံယောဇဉ် ဖြစ်မိတဲ့အခါ တွေ့ကြုံလာရတဲ့ ပြဿနာတွေ...အဲဒီအချိန် မမျှော်လင့်ပဲ သူမရဲ့ငယ်ချစ်ဦးနဲ့ပြန်ဆုံမိတဲ့ အခါ...\n=====================\nဘာသာပြန် : ရုပ်ပြ\n(စ-ဆုံး)"
+}
+,
+{
 "title" : "Boarding Diary",
 "status" : "Ongoing",
 "image_small" : "https://1.bp.blogspot.com/-tkGpy6PAneg/YMeSs7ki5zI/AAAAAAAARIY/KbtnF4syXvcRMGqFOk2g6XeBlaSBuqJGwCLcBGAsYHQ/s0/boardingSmall.webp",
@@ -150,7 +183,7 @@
 }
 ,
 {
-"title" : "မမရဲ့လူစွမ်းကောင်း",
+"title" : "မမရဲ့လူစွမ်းကောင်း\n Sweet Guy",
 "status" : "Completed",
 "image_long" : "https://1.bp.blogspot.com/-eV-CY_4z6Vg/Xo9Y7_DiW7I/AAAAAAAAE0o/mlhQyHAStE8_L_r35GWSHhSTpVSY7H8XgCLcBGAsYHQ/s1600/hero_hori.png",
 "image_small" : "https://1.bp.blogspot.com/-4Pb4-s2EaW0/Xo9Y7vohxbI/AAAAAAAAE0k/h1K2fIUyoTA7xScLvjRoo21Et18NmoMiQCLcBGAsYHQ/s600/hero_vir.png",
