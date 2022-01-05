@@ -1,21 +1,25 @@
 [
 {
 "name" : "pid",
+"isLink" : true,
 "link" : "https://m.facebook.com/story.php?story_fbid=599100254866797&id=107338830709611",
 "image" : "https://1.bp.blogspot.com/-6CZey4__IMk/YUibps3Zs7I/AAAAAAAAxZs/Epqi8jA_XUsYhny2B_lQ8M-W_AvsGVaFQCLcBGAsYHQ/s0/xcomic-banner3.png"
 },
 {
 "name" : "pidTwo",
+"isLink" : true,
 "link" : "https://www.facebook.com/XComicProduction/posts/649068993203256",
 "image" : "https://blogger.googleusercontent.com/img/a/AVvXsEi8XIjzAeVcJhDdB532CsrwHpeevBekLU-un4t0p2Wqq01h6nBrfeM13-JWtf6idQpk9wGYdDwe2DtdpzqFiTWcjVqgAPthLJ4jv39O9l3VXeO7Sq20UZgQYNN9_FdiTvMW_eWFDDDlPhrKa2v7Vv2tUAWuHhO6goZYuB1ZVJ67WSH6K7qUy6HQZNeo"
 },
 {
 "name" : "help2",
+"isLink" : true,
 "link" : "https://www.facebook.com/107338830709611/posts/651110826332406/",
 "image" : "https://i.imgur.com/PbooGFF.jpg"
 },
 {
 "name" : "member",
+"isLink" : true,
 "link" : "https://www.facebook.com/XComicProduction/photos/a.107351750708319/651823622927793/",
 "image" : "https://i.imgur.com/IixCfG9.png"
 }
